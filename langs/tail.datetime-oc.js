@@ -1,16 +1,16 @@
 /*
  |  tail.datetime - The vanilla way to select dates and times!
  |  @file       ./langs/tail.datetime-oc.js
- |  @author     Quentin P
+ |  @author     SamBrishes <sam@pytes.net>
  |  @version    0.4.14 - Beta
  |
  |  @website    https://github.com/pytesNET/tail.DateTime
  |  @license    X11 / MIT License
- |  @copyright  Copyright © 2018 - 2019 SamBrishes, pytesNET <info@pytes.net>
+ |  @copyright  Copyright © 2018 - 2020 SamBrishes, pytesNET <info@pytes.net>
  */
 /*
- |  Translator:     FlashPanther - (https://github.com/FlashPanther)
- |  GitHub:         https://github.com/pytesNET/tail.DateTime/pull/19
+ |  Translator:     Quentin P
+ |  GitHub:         https://github.com/pytesNET/tail.DateTime/pull/95
  */
 ;(function(factory){
    if(typeof(define) == "function" && define.amd){
